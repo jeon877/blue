@@ -1,9 +1,9 @@
 local Configs_HUB = {
-  Cor_Hub = Color3.fromRGB(30, 0, 0), -- لون الخلفية أحمر غامق
-  Cor_Options = Color3.fromRGB(30, 0, 0), -- لون خيارات القائمة أحمر غامق
-  Cor_Stroke = Color3.fromRGB(255, 0, 0), -- لون الحدود أحمر
-  Cor_Text = Color3.fromRGB(255, 255, 255), -- لون النص أبيض
-  Cor_DarkText = Color3.fromRGB(200, 200, 200), -- لون النص الداكن رمادي فاتح
+  Cor_Hub = Color3.fromRGB(30, 0, 0),
+  Cor_Options = Color3.fromRGB(30, 0, 0),
+  Cor_Stroke = Color3.fromRGB(255, 0, 0),
+  Cor_Text = Color3.fromRGB(255, 255, 255),
+  Cor_DarkText = Color3.fromRGB(200, 200, 200),
   Corner_Radius = UDim.new(0,4),
   Text_Font = Enum.Font.FredokaOne
 }
